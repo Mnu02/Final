@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Final</string>
+    <string name="welcome_msg">Welcome to your favorite \nBrewery Finder App 🍻🍷</string>
+    <string name="zip_code">🔎 ZIP CODE</string>
+    <string name="buttonText">press to search</string>
+    <string name="instructions">Search by Zip Code</string>
+    <string name="imageDescription">Picture of a brewery-thingies</string>
+    <string name="copyright">© Made w ❤️ by friends from pod 27</string>
+</resources>
